@@ -11,6 +11,7 @@ I am an undergraduate student in Systems Management Engineering at Sungkyunkwan 
 
 ## Education
 - B.S. in Systems Management Engineering, Sungkyunkwan University (2022 - Present)
+  - Double Major: School of Electronic and Electrical Engineering (2026 - Present)
 - Exchange Program, Vrije Universiteit Amsterdam — Econometrics and Data Science (2025.08 - 2025.12)
 
 
@@ -55,7 +56,7 @@ Edge AI Optimization with Raspberry Pi and Hailo NPU
 
 ### CPRD: Cross-Predictive Reverse Distillation for Multimodal Industrial Anomaly Detection
 
-- Authors: Jongpil Jeong, Dongwoo Kim, Minseok Kang, Minseung Kook, Yunkyung Na, Dongsun Lee
+- Authors: Dongwoo Kim, Jongpil Jeong, Minseok Kang, Minseung Kook, Yunkyung Na, Dongsun Lee
 - Venue: WACV 2027 (Submitted)
 - Submission Number: 22
 
