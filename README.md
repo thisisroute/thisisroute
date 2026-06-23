@@ -16,7 +16,7 @@ I am an undergraduate student in Systems Management Engineering at Sungkyunkwan 
 
 ### Projects
 
-CPRD: Cross-Predictive Reverse Distillation for Multimodal Industrial Anomaly Detection  
+CPRD: Cross-Predictive Reverse Distillation for Multimodal Industrial Anomaly Detection (Smart Factory Capstone Design 1)
 - Developing a real-time anomaly detection system using 2D/3D multimodal data
 - Exploring lightweight modeling for practical industrial deployment
 
@@ -28,6 +28,36 @@ Edge AI Optimization with Raspberry Pi and Hailo NPU
 - Running YOLO models on edge AI devices
 - Exploring quantization and real-time inference optimization
 - Currently in progress
+
+## Intellectual Property
+
+### Program Registrations
+
+- **Anomaly Detection Framework based on Cross-Predictive Reverse Distillation**
+  - Korean Title: Cross-Predictive Reverse Distillation 기반 이상 탐지 프레임워크
+  - Type: Computer Program Work / Industrial Software
+  - Creators: Jongpil Jeong, Dongwoo Kim, Minseok Kang, Minseung Kook, Yunkyung Na, Dongsun Lee
+  - Date of Creation: 2026.06.02
+  - Date of Registration: 2026.06.09
+
+### Patents
+
+- **Anomaly Detection Framework based on Cross-Predictive Reverse Distillation for Multimodal Industrial Anomaly Detection**
+  - Korean Title: 멀티모달 산업 이상 탐지를 위한 Cross-Predictive Reverse Distillation 기반 이상 탐지 프레임워크
+  - Applicant: Sungkyunkwan University Industry-Academic Cooperation Foundation
+  - Inventors: Jongpil Jeong, Dongwoo Kim, Minseok Kang, Minseung Kook, Yunkyung Na, Dongsun Lee
+  - Reference Number: R-2026-0588-KR-1
+  - Status: Pending examination
+  - Examination Request: Yes
+  - Publication Request: No
+ 
+## Papers
+
+### CPRD: Cross-Predictive Reverse Distillation for Multimodal Industrial Anomaly Detection
+
+- Authors: Jongpil Jeong, Dongwoo Kim, Minseok Kang, Minseung Kook, Yunkyung Na, Dongsun Lee
+- Venue: WACV 2027 (Submitted)
+- Submission Number: 22
 
 
 ### Certifications
