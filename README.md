@@ -4,17 +4,17 @@ I am an undergraduate student in Systems Management Engineering at Sungkyunkwan 
 
 
 
-### Research Interests
+## Research Interests
 - Industrial Anomaly Detection
 - Manufacturing Data Analytics
 
 
-### Education
+## Education
 - B.S. in Systems Management Engineering, Sungkyunkwan University (2022 - Present)
 - Exchange Program, Vrije Universiteit Amsterdam — Econometrics and Data Science (2025.08 - 2025.12)
 
 
-### Projects
+## Projects
 
 CPRD: Cross-Predictive Reverse Distillation for Multimodal Industrial Anomaly Detection (Smart Factory Capstone Design 1)
 - Developing a real-time anomaly detection system using 2D/3D multimodal data
@@ -60,11 +60,11 @@ Edge AI Optimization with Raspberry Pi and Hailo NPU
 - Submission Number: 22
 
 
-### Certifications
+## Certifications
 - ADsP
 - SQLD
 
-### Skills
+## Skills
 
 - Python
 - Pandas / NumPy
@@ -73,7 +73,7 @@ Edge AI Optimization with Raspberry Pi and Hailo NPU
 - Data Visualization
 - Machine Learning
 
-### Contact
+## Contact
 - Email: dlehdtjs1120@g.skku.edu
 - GitHub: [thisisroute](https://github.com/thisisroute)
 - Location: South Korea
